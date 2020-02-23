@@ -1,0 +1,21 @@
+Goal :
+Create responsive / mobile-friendly HTML from a PSD.
+
+Requirements :
+PSD to HTML : ?
+ Event.psd
+?
+* Top blue section stretches till end of right hand side 
+* In mobile view (<640px), sections should be visible in below order
+   *Logo
+   *Menu
+   *Blue section
+   *3 events one below the other
+   *Keep in touch
+   *Quote
+   *Footer
+Implementation :
+ *You need not implement infinite scrolling, 
+only styling of load more button needs to be covered. Same for search button.
+ *Turning menu into a hamburger menu for mobile is good to have
+ *Using bootstrap framework is also good to have
